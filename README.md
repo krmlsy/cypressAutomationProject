@@ -17,9 +17,7 @@ This repository contains a Cypress test automation framework developed using the
 To run all the tests in the framework, use the following command:
 
 <pre>
-```bash
 npx cypress run --browser chrome --headed
-```
 </pre>
 
 ## Test Reports
